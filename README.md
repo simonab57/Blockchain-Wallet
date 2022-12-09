@@ -13,6 +13,20 @@ Integrating Ethereum blockchain network into the application in order to enable 
 
 
 ## Technology
-Web3, Streamlit, Bip44, Dataclass
+Ethereum, Web3, Streamlit, Bip44, Dataclass
 
 ## Results
+Streamlit Results: 
+
+Client Accounts Image 1:
+https://github.com/simonab57/Blockchain-Wallet/blob/7e28c2c6af1d549b155ee9ca42625ce3add0180f/Streamlit/Client%20Accounts%201.png
+
+Client Accounts Image 2: 
+https://github.com/simonab57/Blockchain-Wallet/blob/7e28c2c6af1d549b155ee9ca42625ce3add0180f/Streamlit/Client%20Accounts%202.png
+
+Validated Transaction Image (Seen in the bottom left section of the site): 
+https://github.com/simonab57/Blockchain-Wallet/blob/7e28c2c6af1d549b155ee9ca42625ce3add0180f/Streamlit/Validated%20Transaction.png
+
+Ganache Confirmation Image (Seen in recent transaction):
+https://github.com/simonab57/Blockchain-Wallet/blob/7e28c2c6af1d549b155ee9ca42625ce3add0180f/Streamlit/Ganache%20Confirmation.png
+
